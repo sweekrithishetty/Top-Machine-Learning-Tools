@@ -43,7 +43,7 @@
 # 7) Azure Machine Learnig Studio (Microsoft)
 ![AzureMLS](https://github.com/sweekrithishetty/Top-Machine-Learning-Tools/blob/main/download%20(3).png)
 
-- It is drag and drop machine learnig tool.
+- It is drag and drop machine learning tool.
 - It is used to build test and deploy predictive analytics solution.
 
 # 8) Accord.net
@@ -60,7 +60,7 @@
 
 # 10) Natural Language Analysis with Python NLTK
 
-![NLTK](https://github.com/sweekrithishetty/Top-Machine-Learning-Tools/blob/main/download.png)
+![NLTK](https://github.com/sweekrithishetty/Top-Machine-Learning-Tools/blob/main/images%20(1).jfif)
 - It is a Natural Language Processing library in python.
 - It comes with a host of text processing libraries for sentence detection, tokenization, lemmatization, stemming, parsing, chunking, and POS tagging. 
 
