@@ -13,6 +13,26 @@
 # 3) TensorFlow
 ![TensorFlow](https://github.com/sweekrithishetty/Top-Machine-Learning-Tools/blob/main/download.png)
 - Easily trainable on CPU as well GPU for distributed computing.
-- You can train multiple neual networks and multiple GPUs
+- You can train multiple neural networks and multiple GPUs
+
+# 3) Weka
+![Weka]()
+- Easily trainable on CPU as well GPU for distributed computing.
+- You can train multiple neural networks and multiple GPUs
+
+# 3) TensorFlow
+![TensorFlow](https://github.com/sweekrithishetty/Top-Machine-Learning-Tools/blob/main/download.png)
+- Easily trainable on CPU as well GPU for distributed computing.
+- You can train multiple neural networks and multiple GPUs
+
+# 3) TensorFlow
+![TensorFlow](https://github.com/sweekrithishetty/Top-Machine-Learning-Tools/blob/main/download.png)
+- Easily trainable on CPU as well GPU for distributed computing.
+- You can train multiple neural networks and multiple GPUs
+
+# 3) TensorFlow
+![TensorFlow](https://github.com/sweekrithishetty/Top-Machine-Learning-Tools/blob/main/download.png)
+- Easily trainable on CPU as well GPU for distributed computing.
+- You can train multiple neural networks and multiple GPUs
                                                                                                             
                                                                                       
