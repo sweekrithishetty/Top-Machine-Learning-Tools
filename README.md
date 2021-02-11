@@ -15,12 +15,12 @@
 - Easily trainable on CPU as well GPU for distributed computing.
 - You can train multiple neural networks and multiple GPUs
 
-# 3) Weka
+# 3) Weka((Waikato Environment for Knowledge Analysis)
 ![Weka](https://github.com/sweekrithishetty/Top-Machine-Learning-Tools/blob/main/download.jfif)
-- Easily trainable on CPU as well GPU for distributed computing.
-- You can train multiple neural networks and multiple GPUs
+- It is one of the most powerful Machine Learning Tools
+- It is widely used for visualizing machine learning algorithms on your local machine.
 
-# 3) TensorFlow
+# 3) Pytorch
 ![TensorFlow](https://github.com/sweekrithishetty/Top-Machine-Learning-Tools/blob/main/download.png)
 - Easily trainable on CPU as well GPU for distributed computing.
 - You can train multiple neural networks and multiple GPUs
