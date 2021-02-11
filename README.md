@@ -30,7 +30,7 @@
 
 # 5) RapideMiner
 
-![RapidMiner](https://github.com/sweekrithishetty/Top-Machine-Learning-Tools/blob/main/download.png)
+![RapidMiner](https://github.com/sweekrithishetty/Top-Machine-Learning-Tools/blob/main/images%20(1).png)
 - It is a data science platform for teams that unites data prep,machine learning  & predictive model deployment.
 - It has a powerful and robust graphical user interface.
 
