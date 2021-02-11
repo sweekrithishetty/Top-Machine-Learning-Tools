@@ -42,7 +42,7 @@
 
 # 7) Azure Machine Learnig Studio (Microsoft)
 
-![AzureMLS](https://github.com/sweekrithishetty/Top-Machine-Learning-Tools/blob/main/download.png)
+![AzureMLS](https://github.com/sweekrithishetty/Top-Machine-Learning-Tools/blob/main/download%20(3).png)
 - It is drag and drop machine learnig tool.
 - It is used to build test and deploy predictive analytics solution.
 
