@@ -48,7 +48,7 @@
 
 # 8) Accord.net
 
-![Accord.net](https://github.com/sweekrithishetty/Top-Machine-Learning-Tools/blob/main/download.png)
+![Accord.net](https://github.com/sweekrithishetty/Top-Machine-Learning-Tools/blob/main/images%20(2).png)
 - It is a .NET machine learning framework.
 - It is combined with Audio and Image processing libraries completing written in C#.
 
