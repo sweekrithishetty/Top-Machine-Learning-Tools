@@ -10,7 +10,9 @@
 - It is a free source data analytics,reporting and integration platform.
 - It is built for powerful analytics on a GUI based workflow
 
-# 2)TensorFlow
-![Knime](https://github.com/sweekrithishetty/Top-Machine-Learning-Tools/blob/main/images.png)
+# 3) TensorFlow
+![TensorFlow](https://github.com/sweekrithishetty/Top-Machine-Learning-Tools/blob/main/download.png)
+- Easily trainable on CPU as well GPU for distributed computing.
+- You can train multiple neual networks and multiple GPUs
                                                                                                             
                                                                                       
