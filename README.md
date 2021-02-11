@@ -36,7 +36,7 @@
 
 # 6) Google Cloud AutoML
 
-![GoogleCloudML](https://github.com/sweekrithishetty/Top-Machine-Learning-Tools/blob/main/download.png)
+![GoogleCloudML](https://github.com/sweekrithishetty/Top-Machine-Learning-Tools/blob/main/download%20(2).png)
 - It makes the power of machine learning availabl even if you have limited knowledge  oof machine learning.
 - Automates all resource provisioning and monitoring for running the jobs
 
